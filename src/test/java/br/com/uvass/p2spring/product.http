@@ -1,0 +1,2 @@
+GET http://localhost:6070/product/
+Accept: application/json
